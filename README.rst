@@ -13,7 +13,6 @@ Amigo Investidor
         :target: https://amigo-investidor.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-
 .. image:: https://pyup.io/repos/github/wesleyit/amigo_investidor/shield.svg
      :target: https://pyup.io/repos/github/wesleyit/amigo_investidor/
      :alt: Updates
