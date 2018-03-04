@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 
-"""Main module."""
+
+"""Updater is the package responsible for get new values from an
+external API and refresh the local file with updated financial
+indexes and currency pricing."""
+
 
 from requests import get
 from os import environ
@@ -23,6 +27,7 @@ def parse_fields(results):
     Returns a dictionary with the selected values."""
     fields = {}
     r = results['results']
+    print(r)
     fields['cdi'] = r['taxes'][0]['cdi']
     fields['selic'] = r['taxes'][0]['selic']
     fields['daily_factor'] = r['taxes'][0]['daily_factor']
