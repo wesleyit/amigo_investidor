@@ -86,3 +86,12 @@ dist: clean ## builds source and wheel package
 
 install: clean ## install the package to the active Python's site-packages
 	python setup.py install
+
+run_daemons:
+	bash amigoinvestidor/daemons.sh
+
+docker_build:
+	docker build --rm -t wesleyit/amigo_investidor:latest .
+
+docker_upload:
+	docker push wesleyit/amigo_investidor:latest

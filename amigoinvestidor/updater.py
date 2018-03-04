@@ -58,6 +58,7 @@ def pipeline():
 def main_loop():
     """This block will loop forever and execute the pipeline
     function every 60 minutes."""
+    pipeline()
     schedule.every().hour.do(pipeline)
     while True:
         schedule.run_pending()

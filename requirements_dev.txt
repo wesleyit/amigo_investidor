@@ -14,3 +14,4 @@ pandas
 flask
 schedule
 requests
+python-daemon

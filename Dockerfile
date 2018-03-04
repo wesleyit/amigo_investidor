@@ -10,12 +10,12 @@ USER python
 WORKDIR /home/python/
 RUN curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
 RUN pyenv install 3.6.4 && pyenv global 3.6.4
-COPY . /home/python/amigoinvestidor
+COPY . /home/python/amigo_investidor
 USER root
 RUN chown -R 1000:1000 .
 USER python
-WORKDIR /home/python/amigoinvestidor
+WORKDIR /home/python/amigo_investidor
 ENV LANG C.UTF-8
 RUN pip install -U -r requirements_dev.txt
 RUN make install
-CMD python amigoinvestidor/amigoinvestidor.py
+CMD make run_daemons
