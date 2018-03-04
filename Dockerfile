@@ -16,6 +16,4 @@ RUN chown -R 1000:1000 .
 USER python
 WORKDIR /home/python/amigo_investidor
 ENV LANG C.UTF-8
-RUN pip install -U -r requirements_dev.txt
-RUN make install
 CMD make run_daemons
