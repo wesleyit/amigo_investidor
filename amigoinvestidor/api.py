@@ -52,6 +52,8 @@ diversificar na renda fixa.
 *Fator Diário: %s*
 
 E lembre-se: a poupança paga muito mal. Aventure-se :D
+
+E aí, ainda quer continuar a ver índices?
 """ % (selic, cdi, daily_factor)
 
 
@@ -65,13 +67,15 @@ def bold_profile():
     return """O investidor de alto risco precisa estar por
 dentro de tudo para não perder boas chances.
 
-*Dollar: %s*
+*Dólar: %s*
 *Euro: %s*
 *Bitcoin: %s*
 *Ibovespa: %s*
 *Nasdaq: %s*
 
 E quando ficar milionário lembre-se deste humilde bot, tá? ;-)
+
+Vai querer continuar vendo índices?
 """ % (dollar, euro, bitcoin, ibovespa, nasdaq)
 
 

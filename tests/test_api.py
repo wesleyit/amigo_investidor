@@ -4,9 +4,9 @@
 """Tests for `amigoinvestidor` package."""
 
 
-import pytest
-import pandas as pd
-import amigoinvestidor.api as api
+# import pytest
+# import pandas as pd
+# import amigoinvestidor.api as api
 
 
 # @pytest.fixture()
@@ -14,16 +14,20 @@ import amigoinvestidor.api as api
 
 
 def test_read_saved_data():
-    pass
+    # TODO
+    assert 1 == 1
 
 
 def test_bold_profile():
-    pass
+    # TODO
+    assert 1 == 1
 
 
 def test_conservative_profile():
-    pass
+    # TODO
+    assert 1 == 1
 
 
 def test_prepare():
-    pass
+    # TODO
+    assert 1 == 1
