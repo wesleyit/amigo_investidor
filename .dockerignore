@@ -99,7 +99,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
-# more caches and temp files
-.pytest_cache/
-temp.csv
