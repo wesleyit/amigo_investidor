@@ -1,0 +1,98 @@
+=======================
+Política de privacidade
+=======================
+
+
+Política de privacidade do Amigo Investidor
+-------------------------------------------
+
+Nossa política de privacidadese aplica para o tratamento de toda informação
+pessoal submetida pelo usuário ou obtida pelas características da conexão
+como o aplitativo de messenger (BOT). O aplicativo foi desenvolvido por
+Wesley Rodrigues da Silva (e pode ser disponililizado em páginas de empresas
+terceiras como contratantes ou parceiros. Usando o aplicativo e conversãndo
+com o bot, você estará passando informaçãoes, e está concordando com nossa
+política e nossas práticas de privacidade demostradas nesse documento.
+
+
+**QUAL O TIPO DE INFORMAÇÃO QUE o Amigo Investidor CAPTURA?**
+
+Nós capturamos e armazenamos dois tipos de informações:
+
+*As informações que você digita enquanto se comunica com o aplitativo (BOT):*
+Nós podemos receber e armazenar toda a informação submetida para o aplicativo.
+Nós também podemos receber e armazenar as informações disnopolibizadas para o
+aplicativo pelo ambiente (aplicativo base da conversação com o bot), como por
+exemplo as informações públicas de sua conta do facebook. Essa informação pode
+contar nome completo, endereço de email, gênero, IP, informações do navegador
+usado, nome do usuário, informações demográficas, e qualquer outra informação
+necessária para melhorar a interação com o aplicativo e disponibilizada pelo
+aplicativo.
+
+*Personal Information Collected Automatically:*
+Informações pessoais coletadas automaticamente:
+Nós recebemos e armazenamos informações geradas pela interação do usuário com o aplicativo. Por exemplo, Amigo Investidor Studio pode automaticamente receber e armazenar informações sobre o ip utilizado na conexão, informações do navegador, Facebook user ID, Facebook Page Fan status, URL acessada. Essa informação poderá ser compartilhada com outros parceiros de modo que o usuário não seja identificado individualmente.
+
+
+**COMO A Amigo Investidor USA A INFORMAçÃO QUE ELA CAPTURA E ARMAZENA?**
+
+Amigo Investidor usa as informações coletadas internamente pra analizar,
+aprimorar e melhorar nossos produtos e serviços.
+
+
+**A TRANSFERENCIA DE INFORMAÇÕES PARA APLICATIVOS PARCEIROS**
+
+Amigo Investidor pode fornecer informações para aplicativos parceiros
+dentro do Facebook. A politica de uso das informações passadas está devidamente
+apresentada na politica de privacidade do parceiro, que está a disposição na
+página do facebook do aplicativo parceiro.
+
+
+**A Amigo Investidor IRÁ DIVULGAR AS INFORMAÇÕES PESSOAIS QUE RECEBE?**
+
+A informação pessoal compartilhada pelos usuários com o nosso aplicativo
+não será alugada, vendida ou divulgada para terceiros.
+
+
+**Nossos Princípios**
+
+Faremos os melhores esforços para proteger a segurança dos dados dos
+usuários dos nossos aplicativos.
+
+
+**CONDIÇÕES DE USO**
+
+Se você decidir acessar e usar o aplicativo, você está de acordo com
+as regras apresentadas neste documento.
+
+
+**APLICATIVOS E PÁGINAS DE TERCEIROS**
+
+O aplicativo pode apresentar links para outros aplicativos ou websites.
+Esses aplicativos ou websites não estão sujeitos ao controle e responsabilidade
+da Amigo Investidor. As políticas de segurança e privacidade está sujeito às
+regras de privacidade de cada um dos sites e aplicativos.
+
+
+**CRIANÇAS PODEM USAR O APLICATIVO?**
+
+Nosso site e serviços não são desenvolvidos para o público infantil
+(menores de 13 anos). No caso de informada a idade do usuário, dados de
+usuários menores de 13 anos não será armazenada pela Amigo Investidor.
+Nós incentivamos sempre que a navegação e práticas de crianças na internet
+seja sempre supervisionada por seus pais ou responsáveis.
+
+
+**ALTERAÇÕES NA POLITICA DE PRIVACIDADE**
+
+Amigo Investidor pode adicionar novos termos a nossa política de privacidade
+de tempos em tempos. O uso das informações coletadas está vinculado às regras definidas
+na política de privacidade em vigor no momento. Qualquer mudança irá ser divulgada por
+email e em nosso site.
+
+
+**INFORMAÇÕES LEGAIS:**
+
+Este instrumento será regido e interpretado de acordo com a legislação brasileira,
+sendo eleito o Foro da Comarca de SÃO PAULO, SP, para questões a ele relativas,
+com renúncia expressa a qualquer outro.
