@@ -15,7 +15,7 @@ com o bot, você estará passando informaçãoes, e está concordando com nossa
 política e nossas práticas de privacidade demostradas nesse documento.
 
 
-**QUAL O TIPO DE INFORMAÇÃO QUE o Amigo Investidor CAPTURA?**
+**QUAL O TIPO DE INFORMAÇÃO QUE O Amigo Investidor CAPTURA?**
 
 Nós capturamos e armazenamos dois tipos de informações:
 
@@ -34,7 +34,7 @@ Informações pessoais coletadas automaticamente:
 Nós recebemos e armazenamos informações geradas pela interação do usuário com o aplicativo. Por exemplo, Amigo Investidor Studio pode automaticamente receber e armazenar informações sobre o ip utilizado na conexão, informações do navegador, Facebook user ID, Facebook Page Fan status, URL acessada. Essa informação poderá ser compartilhada com outros parceiros de modo que o usuário não seja identificado individualmente.
 
 
-**COMO A Amigo Investidor USA A INFORMAçÃO QUE ELA CAPTURA E ARMAZENA?**
+**COMO O Amigo Investidor USA A INFORMAçÃO QUE ELE CAPTURA E ARMAZENA?**
 
 Amigo Investidor usa as informações coletadas internamente pra analizar,
 aprimorar e melhorar nossos produtos e serviços.
@@ -48,7 +48,7 @@ apresentada na politica de privacidade do parceiro, que está a disposição na
 página do facebook do aplicativo parceiro.
 
 
-**A Amigo Investidor IRÁ DIVULGAR AS INFORMAÇÕES PESSOAIS QUE RECEBE?**
+**O Amigo Investidor IRÁ DIVULGAR AS INFORMAÇÕES PESSOAIS QUE RECEBE?**
 
 A informação pessoal compartilhada pelos usuários com o nosso aplicativo
 não será alugada, vendida ou divulgada para terceiros.

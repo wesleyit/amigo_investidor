@@ -1,13 +1,13 @@
-=======
-Credits
-=======
+========
+Créditos
+========
 
-Development Lead
-----------------
+Desenvolvedor Principal
+-----------------------
 
 * Wesley Rodrigues da Silva <wesley.it@gmail.com>
 
-Contributors
-------------
+Contribuidores
+--------------
 
-None yet. Why not be the first?
+Nenhum ainda. Que tal ser o primeiro?

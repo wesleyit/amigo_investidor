@@ -1,5 +1,5 @@
-Welcome to Amigo Investidor's documentation!
-======================================
+Documentação da API Amigo Investidor
+====================================
 
 .. toctree::
    :maxdepth: 2
@@ -8,13 +8,12 @@ Welcome to Amigo Investidor's documentation!
    readme
    installation
    usage
-   modules
    contributing
    authors
    history
 
-Indices and tables
-==================
+Indices e tabelas
+=================
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
