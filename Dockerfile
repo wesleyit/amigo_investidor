@@ -16,4 +16,5 @@ RUN chown -R 1000:1000 .
 USER python
 WORKDIR /home/python/amigo_investidor
 ENV LANG C.UTF-8
+EXPOSE 8080
 CMD make run_daemons
